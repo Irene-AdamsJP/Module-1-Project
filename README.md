@@ -7,8 +7,8 @@
 
 
 
-# __PROJECT MODULE 1 
-#- CREATE A CLEAN DATA TABLE COMBINING DIFFERENT DATA SOURCES __
+# --> PROJECT MODULE 1 
+#-- CREATE A CLEAN DATA TABLE COMBINING DIFFERENT DATA SOURCES __
 
 As part of my Ironhack experience, I am confronted to the challenge to combined all what I have been learning over the last 3 months into one ONLY CHALLENGE: CREATE A CLEAN DATA TABLE USING DIFFERENT DATA SOURCES... IT HAS BEEN HARD!
                      
